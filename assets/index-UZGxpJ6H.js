@@ -13887,7 +13887,7 @@ const Xte =
                   className: "font-semibold",
                   children: "Roadmap",
                 }),
-                " 2024",
+                " 2025",
               ],
             }),
             W.jsx("p", { children: "Created by the people for the people." }),
@@ -13909,13 +13909,13 @@ const Xte =
                       W.jsx("span", {
                         className:
                           "roadmap-period-indicator px-4 py-2 font-bold text-sm text-white rounded-full ml-auto",
-                        children: "Q2 2024",
+                        children: "Q2 2025",
                       }),
                       W.jsx(ds, { item: hs[2] }),
                       W.jsx("span", {
                         className:
                           "roadmap-period-indicator px-4 py-2 font-bold text-sm text-white rounded-full ml-auto",
-                        children: "Q2 2024",
+                        children: "Q2 2025",
                       }),
                       W.jsx(ds, { item: hs[4] }),
                     ],
@@ -13930,19 +13930,19 @@ const Xte =
                       W.jsx("span", {
                         className:
                           "roadmap-period-indicator px-4 py-2 font-bold text-sm text-white rounded-full",
-                        children: "Q2 2024",
+                        children: "Q2 2025",
                       }),
                       W.jsx(ds, { item: hs[1] }),
                       W.jsx("span", {
                         className:
                           "roadmap-period-indicator px-4 py-2 font-bold text-sm text-white rounded-full",
-                        children: "Q2 2024",
+                        children: "Q2 2025",
                       }),
                       W.jsx(ds, { item: hs[3] }),
                       W.jsx("span", {
                         className:
                           "roadmap-period-indicator px-4 py-2 font-bold text-sm text-white rounded-full",
-                        children: "Q2 2024",
+                        children: "Q2 2025",
                       }),
                       W.jsx(ds, { item: hs[5] }),
                     ],
@@ -13961,7 +13961,7 @@ const Xte =
                       className: "font-semibold",
                       children: "Roadmap",
                     }),
-                    " 2024",
+                    " 2025",
                   ],
                 }),
                 W.jsx("p", {
