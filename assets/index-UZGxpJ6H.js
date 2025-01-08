@@ -12534,7 +12534,7 @@ const fte = [
     });
   },
   mte =
-    "https://dexscreener.com/solana/CzZQwYVVuv5Rr1Whnmgp6zBCyZ6y7YRFenK9xKqY2uFr",
+    "https://dexscreener.com/ethereum/0x8c29fc3d76366cdbaccec71679fe79397b85bf1d",
   Hj = ({ children: t, className: e }) => {
     const r = () => {
       window.open(mte, "_blank");
@@ -24039,7 +24039,7 @@ function nP(t, e = {}) {
 var Vae = {
   VITE_APP_URL: "https://itronix.stree.dev",
   VITE_APP_BUY_TOKEN:
-    "https://dexscreener.com/solana/CzZQwYVVuv5Rr1Whnmgp6zBCyZ6y7YRFenK9xKqY2uFr",
+    "https://dexscreener.com/ethereum/0x8c29fc3d76366cdbaccec71679fe79397b85bf1d",
   VITE_VERCEL_GIT_REPO_ID: "812942702",
   VITE_VERCEL_ENV: "production",
   VITE_VERCEL_GIT_PULL_REQUEST_ID: "",
@@ -24353,7 +24353,7 @@ const Fm = (t) => (e) => {
 var Xae = {
   VITE_APP_URL: "https://itronix.stree.dev",
   VITE_APP_BUY_TOKEN:
-    "https://dexscreener.com/solana/CzZQwYVVuv5Rr1Whnmgp6zBCyZ6y7YRFenK9xKqY2uFr",
+    "https://dexscreener.com/ethereum/0x8c29fc3d76366cdbaccec71679fe79397b85bf1d",
   VITE_VERCEL_GIT_REPO_ID: "812942702",
   VITE_VERCEL_ENV: "production",
   VITE_VERCEL_GIT_PULL_REQUEST_ID: "",
@@ -57381,7 +57381,7 @@ const c3e = YF,
 var hb = {
   VITE_APP_URL: "https://itronix.stree.dev",
   VITE_APP_BUY_TOKEN:
-    "https://dexscreener.com/solana/CzZQwYVVuv5Rr1Whnmgp6zBCyZ6y7YRFenK9xKqY2uFr",
+    "https://dexscreener.com/ethereum/0x8c29fc3d76366cdbaccec71679fe79397b85bf1d",
   VITE_VERCEL_GIT_REPO_ID: "812942702",
   VITE_VERCEL_ENV: "production",
   VITE_VERCEL_GIT_PULL_REQUEST_ID: "",
